@@ -1,4 +1,4 @@
-# Diabeties-Data-Set-Classification-KNN-
+# Diabeties(Classification With KNN Hyperparameter Tuning)
 -  Perform EDA & Preprocessing.
 -  Seperate X & Y.
 -  Train & Test.
